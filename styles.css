@@ -1,0 +1,47 @@
+/*
+Lucas Murdock
+200304037
+27July2020
+*/
+
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+img {
+    border: solid;
+    width: 25%;
+    height: 25%;
+}
+
+h1 {
+    text-decoration: underline;
+    -webkit-text-stroke: 0.5px yellow;
+    font-family: sans;
+    color: black;
+}
+
+h2 {
+    text-decoration: underline;
+    -webkit-text-stroke: 0.5px yellow;
+    font-family: sans;
+    color: black;
+}
+
+p {
+    font-weight: bold;
+    font-size: 20px;
+    -webkit-text-stroke: 0.25px yellow;
+    font-family: sans;
+    color: black;
+}
+
+li {
+    font-weight: bold;
+    font-size: 20px;
+    -webkit-text-stroke: 0.25px yellow;
+    font-family: sans;
+    color: black;
+}
